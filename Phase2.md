@@ -311,20 +311,3 @@ AI-powered learning assistant integrated into exams.
 * AI service layer
 * async processing via Celery
 * learning model over user performance data
-
----
-
-# 🧠 Bonus – How You Should Present This in the Meeting
-
-Structure your talk like this:
-
-1️⃣ **Current platform = functional exam engine**
-2️⃣ **Phase 2 goal = intelligent learning platform**
-3️⃣ Improvements in 3 pillars:
-
-* Learning Intelligence (AI + Analytics)
-* Engagement & Growth (Gamification + Notifications + Affiliates)
-* Infrastructure & Scale (Workers + Anti-Cheating + Admin Tools)
-
-This makes you sound like a **product strategist**, not just a developer.
-
